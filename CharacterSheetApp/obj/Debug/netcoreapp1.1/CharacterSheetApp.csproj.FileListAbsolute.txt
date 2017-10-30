@@ -1,0 +1,10 @@
+/Users/andrew/Desktop/TryDotNetMvc-CourseSampleCode/CharacterSheetApp/bin/Debug/netcoreapp1.1/CharacterSheetApp.deps.json
+/Users/andrew/Desktop/TryDotNetMvc-CourseSampleCode/CharacterSheetApp/bin/Debug/netcoreapp1.1/CharacterSheetApp.runtimeconfig.json
+/Users/andrew/Desktop/TryDotNetMvc-CourseSampleCode/CharacterSheetApp/bin/Debug/netcoreapp1.1/CharacterSheetApp.runtimeconfig.dev.json
+/Users/andrew/Desktop/TryDotNetMvc-CourseSampleCode/CharacterSheetApp/bin/Debug/netcoreapp1.1/CharacterSheetApp.dll
+/Users/andrew/Desktop/TryDotNetMvc-CourseSampleCode/CharacterSheetApp/bin/Debug/netcoreapp1.1/CharacterSheetApp.pdb
+/Users/andrew/Desktop/TryDotNetMvc-CourseSampleCode/CharacterSheetApp/obj/Debug/netcoreapp1.1/CharacterSheetApp.csproj.CoreCompileInputs.cache
+/Users/andrew/Desktop/TryDotNetMvc-CourseSampleCode/CharacterSheetApp/obj/Debug/netcoreapp1.1/CharacterSheetApp.AssemblyInfoInputs.cache
+/Users/andrew/Desktop/TryDotNetMvc-CourseSampleCode/CharacterSheetApp/obj/Debug/netcoreapp1.1/CharacterSheetApp.AssemblyInfo.cs
+/Users/andrew/Desktop/TryDotNetMvc-CourseSampleCode/CharacterSheetApp/obj/Debug/netcoreapp1.1/CharacterSheetApp.dll
+/Users/andrew/Desktop/TryDotNetMvc-CourseSampleCode/CharacterSheetApp/obj/Debug/netcoreapp1.1/CharacterSheetApp.pdb
